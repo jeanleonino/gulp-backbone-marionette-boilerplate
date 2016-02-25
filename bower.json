@@ -1,0 +1,20 @@
+{
+  "name": "gulp-backbone-marionette",
+  "description": "A simple boilerplate for projects using Gulp + Backbone + Marionette",
+  "authors": [
+    "Jean Lucas <jeanleonino@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "marionette",
+    "backbone"
+  ],
+  "homepage": "https://github.com/jeanleonino/gulp-backbone-marionette-boilerplate",
+  "dependencies": {
+    "uikit": "^2.25.0",
+    "font-awesome": "^4.5.0",
+    "backbone.marionette": "marionette#^2.4.4",
+    "backbone": "^1.2.3"
+  }
+}
